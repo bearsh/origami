@@ -1,7 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 
-#include "kirigamistatic.h"
+#include "kirigamiinclude.h"
 
 int main(int argc, char *argv[])
 {
