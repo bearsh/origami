@@ -1,7 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 
-#include "kirigamiinclude.h"
+#include "kirigamiplugin.h"
 
 int main(int argc, char *argv[])
 {
@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     QQmlApplicationEngine engine;
 
     //engine.addImportPath("qrc:///");
-    Kirigami::getInstance().registerTypes("org.kde.kirigami");
+    KirigamiPlugin::registerTypes();
 
     engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
 
