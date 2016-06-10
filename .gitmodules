@@ -1,4 +1,4 @@
 [submodule "kirigami"]
 	path = kirigami
 	url = git@github.com:bearsh/kirigami.git
-	branch = qmake_pri
+	branch = qmake2
