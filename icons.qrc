@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icons/configure.svg">kirigami/breeze-icons/icons/actions/32/configure.svg</file>
+        <file alias="icons/document-edit.svg">kirigami/breeze-icons/icons/actions/32/document-edit.svg</file>
+        <file alias="icons/document-share.svg">kirigami/breeze-icons/icons/actions/32/document-share.svg</file>
+        <file alias="icons/view-list-details.svg">kirigami/breeze-icons/icons/actions/32/view-list-details.svg</file>
+        <file alias="icons/applications-graphics.svg">kirigami/breeze-icons/icons/categories/32/applications-graphics.svg</file>
+        <file alias="icons/folder-favorites.svg">kirigami/breeze-icons/icons/places/32/folder-favorites.svg</file>
+        <file alias="icons/dialog-cancel.svg">kirigami/breeze-icons/icons/actions/32/dialog-cancel.svg</file>
+    </qresource>
+</RCC>
