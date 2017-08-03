@@ -1,1 +1,1 @@
-kirigami/examples/gallery/contents/ui/MainPage.qml
+kirigami/examples/gallerydata/contents/ui/MainPage.qml

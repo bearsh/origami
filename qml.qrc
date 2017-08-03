@@ -1,20 +1,22 @@
 <RCC>
     <qresource prefix="/">
-        <file alias="gallery/ButtonGallery.qml">kirigami/examples/gallery/contents/ui/gallery/ButtonGallery.qml</file>
-        <file alias="gallery/CheckBoxGallery.qml">kirigami/examples/gallery/contents/ui/gallery/CheckBoxGallery.qml</file>
-        <file alias="gallery/ColorsGallery.qml">kirigami/examples/gallery/contents/ui/gallery/ColorsGallery.qml</file>
-        <file alias="gallery/ListViewGallery.qml">kirigami/examples/gallery/contents/ui/gallery/ListViewGallery.qml</file>
-        <file alias="gallery/MiscGallery.qml">kirigami/examples/gallery/contents/ui/gallery/MiscGallery.qml</file>
-        <file alias="gallery/MultipleColumnsGallery.qml">kirigami/examples/gallery/contents/ui/gallery/MultipleColumnsGallery.qml</file>
-        <file alias="gallery/NonScrollableGallery.qml">kirigami/examples/gallery/contents/ui/gallery/NonScrollableGallery.qml</file>
-        <file alias="gallery/ProgressBarGallery.qml">kirigami/examples/gallery/contents/ui/gallery/ProgressBarGallery.qml</file>
-        <file alias="gallery/RadioButtonGallery.qml">kirigami/examples/gallery/contents/ui/gallery/RadioButtonGallery.qml</file>
-        <file alias="gallery/SliderGallery.qml">kirigami/examples/gallery/contents/ui/gallery/SliderGallery.qml</file>
-        <file alias="gallery/SwitchGallery.qml">kirigami/examples/gallery/contents/ui/gallery/SwitchGallery.qml</file>
-        <file alias="gallery/TabBarGallery.qml">kirigami/examples/gallery/contents/ui/gallery/TabBarGallery.qml</file>
-        <file alias="gallery/TextFieldGallery.qml">kirigami/examples/gallery/contents/ui/gallery/TextFieldGallery.qml</file>
-        <file alias="MainPage.qml">kirigami/examples/gallery/contents/ui/MainPage.qml</file>
-        <file alias="banner.jpg">kirigami/examples/gallery/contents/ui/banner.jpg</file>
-        <file alias="main.qml">kirigami/examples/gallery/contents/ui/ExampleApp.qml</file>
+        <file alias="gallery/ButtonGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/ButtonGallery.qml</file>
+        <file alias="gallery/CheckBoxGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/CheckBoxGallery.qml</file>
+        <file alias="gallery/ColorsGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/ColorsGallery.qml</file>
+        <file alias="gallery/ListViewGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/ListViewGallery.qml</file>
+        <file alias="gallery/ListViewHeaderItemsGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/ListViewHeaderItemsGallery.qml</file>
+        <file alias="gallery/MetricsGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/MetricsGallery.qml</file>
+        <file alias="gallery/MiscGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/MiscGallery.qml</file>
+        <file alias="gallery/MultipleColumnsGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/MultipleColumnsGallery.qml</file>
+        <file alias="gallery/NonScrollableGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/NonScrollableGallery.qml</file>
+        <file alias="gallery/ProgressBarGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/ProgressBarGallery.qml</file>
+        <file alias="gallery/RadioButtonGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/RadioButtonGallery.qml</file>
+        <file alias="gallery/SliderGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/SliderGallery.qml</file>
+        <file alias="gallery/SwitchGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/SwitchGallery.qml</file>
+        <file alias="gallery/TabBarGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/TabBarGallery.qml</file>
+        <file alias="gallery/TextFieldGallery.qml">kirigami/examples/gallerydata/contents/ui/gallery/TextFieldGallery.qml</file>
+        <file alias="MainPage.qml">kirigami/examples/gallerydata/contents/ui/MainPage.qml</file>
+        <file alias="banner.jpg">kirigami/examples/gallerydata/contents/ui/banner.jpg</file>
+        <file alias="main.qml">kirigami/examples/gallerydata/contents/ui/ExampleApp.qml</file>
     </qresource>
 </RCC>
